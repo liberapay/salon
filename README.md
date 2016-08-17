@@ -15,3 +15,10 @@ Quick links:
 - [see the current discussions](https://github.com/liberapay/salon/issues?q=is%3Aopen)
 - [see the past discussions](https://github.com/liberapay/salon/issues?q=is%3Aclosed)
 - [start a new discussion](https://github.com/liberapay/salon/issues/new)
+
+You can also explore the issues by label:
+
+- [news about Liberapay](https://github.com/liberapay/salon/labels/News)
+- [onboarding of new contributors](https://github.com/liberapay/salon/labels/Onboarding)
+- [paydays](https://github.com/liberapay/salon/labels/Payday)
+- [watercooler](https://github.com/liberapay/salon/labels/Watercooler)
