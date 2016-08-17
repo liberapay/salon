@@ -15,3 +15,6 @@ Quick links:
 - [see the current discussions](https://github.com/liberapay/salon/issues?q=is%3Aopen)
 - [see the past discussions](https://github.com/liberapay/salon/issues?q=is%3Aclosed)
 - [start a new discussion](https://github.com/liberapay/salon/issues/new)
+- [Publish new on social network](https://github.com/liberapay/salon/labels/News)
+- [Follow new member boarding](https://github.com/liberapay/salon/labels/Onboarding)
+- [Follow payday](https://github.com/liberapay/salon/labels/Payday)
