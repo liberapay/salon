@@ -20,4 +20,5 @@ You can also explore the issues by label:
 
 - [news about Liberapay](https://github.com/liberapay/salon/labels/News)
 - [onboarding of new contributors](https://github.com/liberapay/salon/labels/Onboarding)
-- [payday](https://github.com/liberapay/salon/labels/Payday)
+- [paydays](https://github.com/liberapay/salon/labels/Payday)
+- [watercooler](https://github.com/liberapay/salon/labels/Watercooler)
